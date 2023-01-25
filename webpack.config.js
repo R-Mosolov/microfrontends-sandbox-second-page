@@ -24,11 +24,11 @@ module.exports = {
     extensions: ['.js'],
   },
   devServer: {
-    port: 3000
+    port: 3001
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Main Page',
+      title: 'Second Page',
       template: 'public/index.html',
     }),
   ]
