@@ -2,14 +2,7 @@ import React from "react";
 
 const App = () => {
   return (
-    <div style={{
-      margin: "10px",
-      padding:"10px",
-      textAlign:"center",
-      backgroundColor:"cyan"
-    }}>
-      <h1 >App 2</h1>
-    </div>
+    <h1>Micro-frontend 2</h1>
   )
 }
 
